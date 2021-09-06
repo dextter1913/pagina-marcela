@@ -28,7 +28,7 @@
                     </li>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://drive.google.com/file/d/1IjVhMqn2xycy-WmO0VbfwIrgwZbMmCIQ/view?usp=sharing" target="__blank">Arqueo Local</a>
+                        <a class="nav-link" href="https://drive.google.com/file/d/1IjVhMqn2xycy-WmO0VbfwIrgwZbMmCIQ/view?usp=sharing" target="__blank">Diagnostico de Marca</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.blogger.com" target="__blank">Administrador</a>
