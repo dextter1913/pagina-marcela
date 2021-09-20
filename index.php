@@ -33,8 +33,8 @@
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.blogger.com" target="__blank">Administrador</a>
                     </li>
-                    <li>
-                        <a href="https://drive.google.com/file/d/1j5nlNcL-rSlkcDpvQIqAETMIARyFj33P/view?usp=sharing">Inteligencia de Marketing</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://drive.google.com/file/d/1j5nlNcL-rSlkcDpvQIqAETMIARyFj33P/view?usp=sharing">Inteligencia de Marketing</a>
                     </li>
                 </ul>
             </div>
