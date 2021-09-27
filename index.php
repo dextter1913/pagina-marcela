@@ -36,6 +36,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="https://drive.google.com/file/d/1j5nlNcL-rSlkcDpvQIqAETMIARyFj33P/view?usp=sharing" target="__blank">Inteligencia de Marketing</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://drive.google.com/file/d/1Th-Yfkg-14gFCfS4Y0Y4LJa6ryAGVeDP/view?usp=sharing" target="__blank">PENSAMIENTO ESTRATEGICO DE MARKETING</a>
+                    </li>
                 </ul>
             </div>
         </div>
