@@ -23,21 +23,21 @@
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="#">Inicio</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://arqueolocal.blogspot.com/" target="__blank">Blog</a>
-                    </li>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://drive.google.com/file/d/1IjVhMqn2xycy-WmO0VbfwIrgwZbMmCIQ/view?usp=sharing" target="__blank">Diagnostico de Marca</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://www.blogger.com" target="__blank">Administrador</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://drive.google.com/file/d/1j5nlNcL-rSlkcDpvQIqAETMIARyFj33P/view?usp=sharing" target="__blank">Inteligencia de Marketing</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://drive.google.com/file/d/1Th-Yfkg-14gFCfS4Y0Y4LJa6ryAGVeDP/view?usp=sharing" target="__blank">PENSAMIENTO ESTRATEGICO DE MARKETING</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://drive.google.com/file/d/1GKCBuwmvTezdA6YtbRJJg2C-cM_c5c1v/view?usp=sharing" target="__blank">COMUNICACION DE MARCA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://drive.google.com/file/d/1wL57TIQlyNQg8CABvIuuKqSAB8xxBXrh/view?usp=sharing" target="__blank">VIDEO MILENA MOLINA</a>
                     </li>
                 </ul>
             </div>
